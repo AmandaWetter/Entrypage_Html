@@ -1,5 +1,5 @@
 = Entrypage_Html
-:includedir:EntryPage_Html/A000_Test/docs
+:includedir: A000_Test/docs
 
 https://amandawetter.github.io/Entrypage_Html/
 
