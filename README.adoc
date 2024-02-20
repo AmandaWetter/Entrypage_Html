@@ -3,4 +3,4 @@
 
 https://amandawetter.github.io/Entrypage_Html/
 
-include::{includedir}/docs/impressum.adoc[]
+include::https://amandawetter.github.io/A000_Test/docs/impressum.adoc[]
