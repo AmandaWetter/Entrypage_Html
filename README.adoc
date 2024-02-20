@@ -1,6 +1,6 @@
 = Entrypage_Html
-:includedir:'A000_Test @ 3ad3585'
+:includedir:A000_Test/docs
 
 https://amandawetter.github.io/Entrypage_Html/
 
-include::A000_Test/docs/impressum.adoc[]
+include::{includedir}/impressum.adoc[]
