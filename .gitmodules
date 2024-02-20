@@ -1,0 +1,6 @@
+[submodule "A000_Test"]
+	path = A000_Test
+	url = https://github.com/AmandaWetter/A000_Test
+[submodule "A001"]
+	path = A001
+	url = https://github.com/AmandaWetter/A001
