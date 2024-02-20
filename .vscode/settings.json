@@ -1,5 +1,6 @@
 {
     "explorer.excludeGitIgnore": false,
     "explorer.fileNesting.enabled": true,
-    "search.useGlobalIgnoreFiles": true
+    "search.useGlobalIgnoreFiles": true,
+    "asciidoc.antora.enableAntoraSupport": false
 }
