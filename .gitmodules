@@ -3,4 +3,7 @@
 	url = https://github.com/AmandaWetter/A000_Test
 [submodule "A001_Test"]
 	path = A001_Test
+	url = https://github.com/AmandaWetter/A001.git
+[submodule "A001_NeuTest"]
+	path = A001_NeuTest
 	url = https://github.com/AmandaWetter/A001
